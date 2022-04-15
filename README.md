@@ -1,6 +1,7 @@
 # flash_chat
 
 A new Flutter project.
+Firebase test mode will be continue 05.15
 
 ## Getting Started
 
